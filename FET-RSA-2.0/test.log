@@ -1,0 +1,214 @@
+INFO:FET-RSA-2.0(__main__)):2025-04-27 12:20:16.253821:Program initiated.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 12:20:16.252076:Signing message.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 12:20:16.252076:Signed message.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 12:20:16.252076:writing signature to message.bin.
+WARNING:FET-RSA-2.0(__main__)):2025-04-27 12:20:17.627277:Unknown.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 12:20:16.252076:Exiting program(1.3737730979919434 seconds).
+INFO:FET-RSA-2.0(__main__)):2025-04-27 12:21:07.667660:Program initiated.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 12:21:07.666155:Signing message.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 12:21:07.666155:Signed message.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 12:21:07.666155:writing signature to message.bin.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 12:21:07.666155:Successfully decrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/message.bin
+INFO:FET-RSA-2.0(__main__)):2025-04-27 12:21:07.666155:Exiting program(1.7785038948059082 seconds).
+INFO:FET-RSA-2.0(__main__)):2025-04-27 12:29:13.446778:Program initiated.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 12:29:13.445210:Verifying message.
+WARNING:FET-RSA-2.0(__main__)):2025-04-27 12:29:14.452722:Unknown: name 'message' is not defined.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 12:29:13.445210:Could not verify message
+INFO:FET-RSA-2.0(__main__)):2025-04-27 12:29:13.445210:Exiting program(1.0063579082489014 seconds).
+INFO:FET-RSA-2.0(__main__)):2025-04-27 12:30:20.762500:Program initiated.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 12:30:20.760927:Verifying signature.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 12:30:20.760927:Exiting program(0.8569729328155518 seconds).
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:21:16.561446:Program initiated.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:21:16.559755:Signing message.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:21:16.559755:Signed message.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:21:16.559755:writing signature to message.bin.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:21:16.559755:Successfully decrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/file
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:21:16.559755:Exiting program(1.4267189502716064 seconds).
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:21:45.924340:Program initiated.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:21:45.922693:Verifying signature.
+WARNING:FET-RSA-2.0(__main__)):2025-04-27 17:21:45.949264:Unknown: name 'message' is not defined.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:21:45.922693:Could not verify signature.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:21:45.922693:Exiting program(0.02526402473449707 seconds).
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:22:20.064354:Program initiated.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:22:20.062582:Verifying signature.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:22:20.062582:Verified signature.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:22:20.062582:Exiting program(0.02793097496032715 seconds).
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:33:22.598760:Program initiated.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:33:22.597172:Exiting program(1.327019214630127 seconds).
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:33:46.886388:Program initiated.
+WARNING:FET-RSA-2.0(__main__)):2025-04-27 17:33:47.811213:Unknown: type object 'Status' has no attribute 'good_status'.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:33:46.884771:Exiting program(0.930351972579956 seconds).
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:33:56.921972:Program initiated.
+WARNING:FET-RSA-2.0(__main__)):2025-04-27 17:33:58.052608:Unknown: type object 'Status' has no attribute 'good_status'.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:33:56.920380:Exiting program(1.1311609745025635 seconds).
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:34:22.843761:Program initiated.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:34:22.841805:Signing message.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:34:22.841805:Signed message.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:34:22.841805:writing signature to message.bin.
+WARNING:FET-RSA-2.0(__main__)):2025-04-27 17:34:23.819056:Unknown: type object 'Status' has no attribute 'message'.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:34:22.841805:Exiting program(0.9756770133972168 seconds).
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:34:54.002702:Program initiated.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:34:54.001112:Signing message.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:34:54.001112:Signed message.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:34:54.001112:writing signature to message.bin.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:34:54.001112:Exiting program(0.935478925704956 seconds).
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:35:07.697713:Program initiated.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:35:07.696124:Signing message.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:35:07.696124:Signed message.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:35:07.696124:writing signature to message.bin.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:35:07.696124:Wrote signature to message.bin.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:35:07.696124:Exiting program(0.9219701290130615 seconds).
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:35:21.192253:Program initiated.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:35:21.190425:Verifying signature.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:35:21.190425:Verified signature.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:35:21.190425:Exiting program(0.02755880355834961 seconds).
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:37:06.982681:Program initiated.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:37:06.980671:Verifying signature.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:37:06.980671:Verified signature.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:37:06.980671:Exiting program(0.02891087532043457 seconds).
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:38:25.009036:Program initiated.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:38:25.007437:Verifying signature.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:38:25.007437:Verified signature.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:38:25.007437:Exiting program(0.027493000030517578 seconds).
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:38:40.589923:Program initiated.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:38:40.588330:Encrypting 10 files with 1 threads, and a 256 keylength.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:38:40.588330:Started thread 1/1
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:38:40.588330:Joining thread 1/1
+WARNING:FET-RSA-2.0(__main__)):2025-04-27 17:38:40.618941:Unknown.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:38:40.588330:Exiting program(0.02972102165222168 seconds).
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:45:16.946744:Program initiated.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:45:16.945132:Exiting program(0.02432107925415039 seconds).
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:45:22.128866:Program initiated.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:45:22.127225:Encrypting 10 files with 1 threads, and a 256 keylength.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:45:22.127225:Started thread 1/1
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:45:22.127225:Joining thread 1/1
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:45:22.127225:Successfully decrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/file
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:45:22.127225:Successfully decrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/file1
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:45:22.127225:Successfully decrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/file2
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:45:22.127225:Successfully decrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/file3
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:45:22.127225:Successfully decrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/file4
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:45:22.127225:Successfully decrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/file5
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:45:22.127225:Successfully decrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/file6
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:45:22.127225:Successfully decrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/testdir/test1
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:45:22.127225:Successfully decrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/testdir/test2
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:45:22.127225:Successfully decrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/testdir/test3
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:45:22.127225:Exiting program(0.8617761135101318 seconds).
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:46:01.622570:Program initiated.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:46:01.620977:Signing message.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:46:01.620977:Signed message.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:46:01.620977:writing signature to signature.bin.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:46:01.620977:Wrote signature to signature.bin.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:46:01.620977:Exiting program(3.64228892326355 seconds).
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:46:20.120443:Program initiated.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:46:20.118632:Verifying signature.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:46:20.118632:Verified signature.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 17:46:20.118632:Exiting program(0.02880692481994629 seconds).
+INFO:FET-RSA-2.0(__main__)):2025-04-27 22:49:55.187822:Program initiated.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 22:49:55.185991:Encrypting 10 files with 1 threads, and a 256 keylength.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 22:49:55.185991:Started thread 1/1
+INFO:FET-RSA-2.0(__main__)):2025-04-27 22:49:55.185991:Joining thread 1/1
+INFO:FET-RSA-2.0(__main__)):2025-04-27 22:49:55.185991:Successfully encrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/file
+INFO:FET-RSA-2.0(__main__)):2025-04-27 22:49:55.185991:Successfully encrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/file1
+INFO:FET-RSA-2.0(__main__)):2025-04-27 22:49:55.185991:Successfully encrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/file2
+INFO:FET-RSA-2.0(__main__)):2025-04-27 22:49:55.185991:Successfully encrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/file3
+INFO:FET-RSA-2.0(__main__)):2025-04-27 22:49:55.185991:Successfully encrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/file4
+INFO:FET-RSA-2.0(__main__)):2025-04-27 22:49:55.185991:Successfully encrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/file5
+INFO:FET-RSA-2.0(__main__)):2025-04-27 22:49:55.185991:Successfully encrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/file6
+INFO:FET-RSA-2.0(__main__)):2025-04-27 22:49:55.185991:Successfully encrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/testdir/test1
+INFO:FET-RSA-2.0(__main__)):2025-04-27 22:49:55.185991:Successfully encrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/testdir/test2
+INFO:FET-RSA-2.0(__main__)):2025-04-27 22:49:55.185991:Successfully encrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/testdir/test3
+INFO:FET-RSA-2.0(__main__)):2025-04-27 22:49:55.185991:Exiting program(0.04564189910888672 seconds).
+INFO:FET-RSA-2.0(__main__)):2025-04-27 22:49:58.413666:Program initiated.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 22:49:58.412095:Encrypting 10 files with 1 threads, and a 256 keylength.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 22:49:58.412095:Started thread 1/1
+INFO:FET-RSA-2.0(__main__)):2025-04-27 22:49:58.412095:Joining thread 1/1
+WARNING:FET-RSA-2.0(__main__)):2025-04-27 22:49:58.437311:Error encrypting file: The file has already been encrypted.
+WARNING:FET-RSA-2.0(__main__)):2025-04-27 22:49:58.437700:Error encrypting file1: The file has already been encrypted.
+WARNING:FET-RSA-2.0(__main__)):2025-04-27 22:49:58.437972:Error encrypting file2: The file has already been encrypted.
+WARNING:FET-RSA-2.0(__main__)):2025-04-27 22:49:58.438241:Error encrypting file3: The file has already been encrypted.
+WARNING:FET-RSA-2.0(__main__)):2025-04-27 22:49:58.438483:Error encrypting file4: The file has already been encrypted.
+WARNING:FET-RSA-2.0(__main__)):2025-04-27 22:49:58.438687:Error encrypting file5: The file has already been encrypted.
+WARNING:FET-RSA-2.0(__main__)):2025-04-27 22:49:58.438881:Error encrypting file6: The file has already been encrypted.
+WARNING:FET-RSA-2.0(__main__)):2025-04-27 22:49:58.439075:Error encrypting testdir/test1: The file has already been encrypted.
+WARNING:FET-RSA-2.0(__main__)):2025-04-27 22:49:58.439351:Error encrypting testdir/test2: The file has already been encrypted.
+WARNING:FET-RSA-2.0(__main__)):2025-04-27 22:49:58.439557:Error encrypting testdir/test3: The file has already been encrypted.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 22:49:58.412095:Exiting program(0.026504039764404297 seconds).
+INFO:FET-RSA-2.0(__main__)):2025-04-27 22:50:05.937436:Program initiated.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 22:50:05.935775:Encrypting 10 files with 1 threads, and a 256 keylength.
+INFO:FET-RSA-2.0(__main__)):2025-04-27 22:50:05.935775:Started thread 1/1
+INFO:FET-RSA-2.0(__main__)):2025-04-27 22:50:05.935775:Joining thread 1/1
+INFO:FET-RSA-2.0(__main__)):2025-04-27 22:50:05.935775:Successfully decrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/file
+INFO:FET-RSA-2.0(__main__)):2025-04-27 22:50:05.935775:Successfully decrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/file1
+INFO:FET-RSA-2.0(__main__)):2025-04-27 22:50:05.935775:Successfully decrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/file2
+INFO:FET-RSA-2.0(__main__)):2025-04-27 22:50:05.935775:Successfully decrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/file3
+INFO:FET-RSA-2.0(__main__)):2025-04-27 22:50:05.935775:Successfully decrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/file4
+INFO:FET-RSA-2.0(__main__)):2025-04-27 22:50:05.935775:Successfully decrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/file5
+INFO:FET-RSA-2.0(__main__)):2025-04-27 22:50:05.935775:Successfully decrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/file6
+INFO:FET-RSA-2.0(__main__)):2025-04-27 22:50:05.935775:Successfully decrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/testdir/test1
+INFO:FET-RSA-2.0(__main__)):2025-04-27 22:50:05.935775:Successfully decrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/testdir/test2
+INFO:FET-RSA-2.0(__main__)):2025-04-27 22:50:05.935775:Successfully decrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/testdir/test3
+INFO:FET-RSA-2.0(__main__)):2025-04-27 22:50:05.935775:Exiting program(1.1841599941253662 seconds).
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:44:46.284822:Program initiated.
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:44:46.283200:Generating an encrypted 2048 bit RSA key in PEM format.
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:44:46.283200:Generated an encrypted 2048 bit RSA key in PEM format.
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:44:46.283200:Exiting program(4.371621131896973 seconds).
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:51:17.808469:Program initiated.
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:51:17.806817:Encrypting 7 files with 1 threads, and a 256 keylength.
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:51:17.806817:Started thread 1/1
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:51:17.806817:Joining thread 1/1
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:51:17.806817:Successfully encrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/file
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:51:17.806817:Successfully encrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/file1
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:51:17.806817:Successfully encrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/file2
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:51:17.806817:Successfully encrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/file3
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:51:17.806817:Successfully encrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/file4
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:51:17.806817:Successfully encrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/file5
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:51:17.806817:Successfully encrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/file6
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:51:17.806817:Exiting program(2.1194348335266113 seconds).
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:51:28.962602:Program initiated.
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:51:28.960685:Encrypting 7 files with 1 threads, and a 256 keylength.
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:51:28.960685:Started thread 1/1
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:51:28.960685:Joining thread 1/1
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:51:28.960685:Successfully decrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/file
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:51:28.960685:Successfully decrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/file1
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:51:28.960685:Successfully decrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/file2
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:51:28.960685:Successfully decrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/file3
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:51:28.960685:Successfully decrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/file4
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:51:28.960685:Successfully decrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/file5
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:51:28.960685:Successfully decrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/file6
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:51:28.960685:Exiting program(0.8016860485076904 seconds).
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:53:10.393706:Program initiated.
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:53:10.391934:Encrypting 7 files with 1 threads, and a 256 keylength.
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:53:10.391934:Started thread 1/1
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:53:10.391934:Joining thread 1/1
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:53:10.391934:Successfully encrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/file
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:53:10.391934:Successfully encrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/file1
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:53:10.391934:Successfully encrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/file2
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:53:10.391934:Successfully encrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/file3
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:53:10.391934:Successfully encrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/file4
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:53:10.391934:Successfully encrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/file5
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:53:10.391934:Successfully encrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/file6
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:53:10.391934:Exiting program(1.0667669773101807 seconds).
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:53:19.539901:Program initiated.
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:53:19.538274:Encrypting 7 files with 1 threads, and a 256 keylength.
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:53:19.538274:Started thread 1/1
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:53:19.538274:Joining thread 1/1
+WARNING:FET-RSA-2.0(__main__)):2025-05-08 19:53:21.257118:Error encrypting file: The file has already been encrypted.
+WARNING:FET-RSA-2.0(__main__)):2025-05-08 19:53:21.257699:Error encrypting file1: The file has already been encrypted.
+WARNING:FET-RSA-2.0(__main__)):2025-05-08 19:53:21.257934:Error encrypting file2: The file has already been encrypted.
+WARNING:FET-RSA-2.0(__main__)):2025-05-08 19:53:21.258162:Error encrypting file3: The file has already been encrypted.
+WARNING:FET-RSA-2.0(__main__)):2025-05-08 19:53:21.258391:Error encrypting file4: The file has already been encrypted.
+WARNING:FET-RSA-2.0(__main__)):2025-05-08 19:53:21.258587:Error encrypting file5: The file has already been encrypted.
+WARNING:FET-RSA-2.0(__main__)):2025-05-08 19:53:21.258781:Error encrypting file6: The file has already been encrypted.
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:53:19.538274:Exiting program(1.7196719646453857 seconds).
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:53:39.616163:Program initiated.
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:53:39.614527:Encrypting 7 files with 1 threads, and a 256 keylength.
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:53:39.614527:Started thread 1/1
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:53:39.614527:Joining thread 1/1
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:53:39.614527:Successfully decrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/file
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:53:39.614527:Successfully decrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/file1
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:53:39.614527:Successfully decrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/file2
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:53:39.614527:Successfully decrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/file3
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:53:39.614527:Successfully decrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/file4
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:53:39.614527:Successfully decrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/file5
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:53:39.614527:Successfully decrypted /home/af0r3/Desktop/python/FET/FET-RSA-2.0/file6
+INFO:FET-RSA-2.0(__main__)):2025-05-08 19:53:39.614527:Exiting program(4.379715919494629 seconds).

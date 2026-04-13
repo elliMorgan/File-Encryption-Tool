@@ -1,0 +1,4 @@
+*.exe
+*__pycache__*
+FET-*/LICENSE
+*.html
