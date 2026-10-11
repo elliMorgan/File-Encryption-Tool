@@ -67,4 +67,4 @@ Commands:
   verify
 ```
 
-I have tried to unify these programs by building them on top of the same code, allowing for generalizations and abstractions. I have versions in several different directories because I built this project before I understood what Git version control was. 
+I have tried to unify these programs by building them on top of the same code, allowing for generalizations and abstractions (See [Link Text](https://github.com/elliMorgan/elliMorgan/README.MD)). I have versions in several different directories because I built this project before I understood what Git version control was. 
